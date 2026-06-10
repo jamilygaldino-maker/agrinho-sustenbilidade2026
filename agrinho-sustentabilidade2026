@@ -1,0 +1,29 @@
+alertas = ["incêndio", "inundação", "gás", "quebra de equipamento"]
+
+situacao = input("Digite a situação de risco na escola: ").lower()
+
+if situacao in alertas:
+    print(f"Atenção! Situação de risco detectada: {situacao}. Aja imediatamente!")
+else:
+    print("Tudo seguro por enquanto. Continue atento!")alertas = ["incêndio", "inundação", "gás", "quebra de equipamento"]
+
+situacao = input("Digite a situação de risco na escola: ").lower()
+
+if situacao in alertas:
+    print(f"Atenção! Situação de risco detectada: {situacao}. Aja imediatamente!")
+else:
+    print("Tudo seguro por enquanto. Continue atento!")alertas = ["incêndio", "inundação", "gás", "quebra de equipamento"]
+
+situacao = input("Digite a situação de risco na escola: ").lower()
+
+if situacao in alertas:
+    print(f"Atenção! Situação de risco detectada: {situacao}. Aja imediatamente!")
+else:
+    print("Tudo seguro por enquanto. Continue atento!")alertas = ["incêndio", "inundação", "gás", "quebra de equipamento"]
+
+situacao = input("Digite a situação de risco na escola: ").lower()
+
+if situacao in alertas:
+    print(f"Atenção! Situação de risco detectada: {situacao}. Aja imediatamente!")
+else:
+    print("Tudo seguro por enquanto. Continue atento!")
